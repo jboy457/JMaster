@@ -1,0 +1,5 @@
+Given two string, Write a function to determin if
+the second string is an anagram of the first. 
+An anagram is a word, phrase, or name formed by 
+rearranging the letters of anothe, 
+such as cinema formed from ic man
