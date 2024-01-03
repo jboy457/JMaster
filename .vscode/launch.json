@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "solving_patterns.anagrams.Anagram",
+            "projectName": "JMaster_f520a813"
+        },
+        {
+            "name": "Simple Debug (Launch) - Java",
+            "type": "java",
+            "request": "launch",
+            "console": "internalConsole",
+            "stepFilters": {
+                "skipClasses": [
+                    "java.*",
+                    "$JDK",
+                    "junit.*",
+                    "Thread"
+                ],
+                "skipSynthetics": false,
+                "skipStaticInitializers": false,
+                "skipConstructors": false
+            }
+        }
+    ]
+}
